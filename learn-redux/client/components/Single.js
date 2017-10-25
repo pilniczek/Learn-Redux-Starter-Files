@@ -1,11 +1,13 @@
 import React from 'react'
 
-const Main = React.createClass({
+const Single = React.createClass({
     render() {
         return (
-            null
+            <div class='single'>
+                s
+            </div>
         )
     }
 })
 
-export default Main
+export default Single
