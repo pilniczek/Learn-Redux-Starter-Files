@@ -3,7 +3,7 @@ import React from 'react'
 const Single = React.createClass({
     render() {
         return (
-            <div class='single'>
+            <div className='single'>
                 s
             </div>
         )

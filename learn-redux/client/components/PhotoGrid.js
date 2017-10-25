@@ -3,7 +3,7 @@ import React from 'react'
 const PhotoGrid = React.createClass({
     render() {
         return (
-            <div class='photo-grid'>
+            <div className='photo-grid'>
                 pg
             </div>
         )
